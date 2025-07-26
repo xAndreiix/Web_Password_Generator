@@ -1,0 +1,80 @@
+body {
+  background: linear-gradient(135deg, #283e51, #4b79a1);
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.generator {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 300px;
+}
+
+.generator input[type="text"],
+.generator input[type="number"] {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  width: 100%;
+}
+
+.options label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.options input[type="checkbox"] {
+  accent-color: #38bdf8;
+  width: 18px;
+  height: 18px;
+}
+
+button {
+  background: #38bdf8;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #0ea5e9;
+}
+
+.strength {
+  height: 18px;
+  background: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.strength-bar {
+  height: 100%;
+  width: 0;
+  transition: width 0.5s ease;
+}
+
+.strength-text {
+  font-size: 0.8rem;
+  text-align: right;
+  font-weight: bold;
+  transition: color 0.3s;
+}

@@ -4,6 +4,12 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
+## 💻 Live Demo
+
+- [⛓️‍💥 Demo](https://web-password-generator-eight.vercel.app/)
+
+---
+
 ## 🔐 Features
 
 - Generate strong, random passwords
@@ -28,6 +34,8 @@ cd password-generator-app
 
 ### 2. Open in browser
 Just open index.html directly in your browser. No dependencies required.
+
+---
 
 ## 📁 File Structure
 

@@ -10,6 +10,28 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/very-strong-pass.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/weak-pass.png" width="45%">
+  <img src="screenshots/strong-pass.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/good-pass.png" width="45%">
+  <img src="screenshots/fair-pass.png" width="45%">
+</p>
+
+---
+
 ## 🔐 Features
 
 - Generate strong, random passwords

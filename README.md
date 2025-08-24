@@ -73,6 +73,13 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 - ├── index.html
 - ├── style.css
 - ├── script.js
+- ├── screenshots/
+- │   └── fair-pass.png
+- │   └── good-pass.png
+- │   └── strong-pass.png
+- │   └── very-strong-pass.png
+- │   └── weak-pass.png
+- ├── .gitignore
 - ├── LICENSE
 - └── README.md
 

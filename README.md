@@ -69,7 +69,7 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 ---
 
 ## Project Structure
-- │ 🗂️ password-generator-app/
+- │ 📁 password-generator-app/
 - ├── index.html
 - ├── style.css
 - ├── script.js
@@ -93,6 +93,7 @@ cd password-generator-app
 ```
 2. Open in browser
 Just open index.html directly in your browser. No dependencies required.
+<!-- ## Usage -->
 <!-- ## Configuration -->
 <!-- ## Runing tests -->
 <!-- ## Deployment -->

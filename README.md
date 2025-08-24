@@ -90,6 +90,8 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 1. Clone the repository
 ```bash
 git clone https://github.com/xAndreiix/Web_Password_Generator.git
+```
+```bash
 cd password-generator-app
 ```
 2. Open in browser

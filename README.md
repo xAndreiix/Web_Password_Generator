@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -17,7 +17,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A clean, modern password generator built using **HTML**, **CSS**, and **JavaScript**. It lets users generate secure, random passwords with configurable options for length and character types.
 <!-- ## Badges -->
 

@@ -98,6 +98,8 @@ Just open index.html directly in your browser. No dependencies required.
 <!-- ## Runing tests -->
 <!-- ## Deployment -->
 <!-- Notes -->
+<!-- ## Road Map -->
+<!-- ## FAQ -->
 
 ---
 

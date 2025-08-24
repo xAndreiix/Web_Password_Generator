@@ -82,6 +82,7 @@ A clean, modern password generator built using **HTML**, **CSS**, and **JavaScri
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
+<!-- ## Requirements -->
 
 ---
 
